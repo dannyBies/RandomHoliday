@@ -4,11 +4,11 @@ module.exports = {
   theme: {
     extend: {
       transitionProperty: {
-        opacity: "opacity"
+        opacity: "opacity",
       },
       transitionDuration: {
-        '2000': '2000ms',
-       }
+        2000: "2000ms",
+      },
     },
   },
   plugins: [],
